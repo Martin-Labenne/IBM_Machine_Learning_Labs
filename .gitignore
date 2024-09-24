@@ -1,0 +1,15 @@
+__pycache__/
+data/*
+
+
+# venv files
+bin/
+etc/
+include/
+lib/
+lib64
+pyvenv.cfg
+share/
+
+# jupyter checkpoints
+.ipynb_checkpoints/
